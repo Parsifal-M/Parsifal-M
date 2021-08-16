@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Parsifal-M
 - 👀 I’m interested in DevOps, Automation, and recently Kotlin!
 - 🌱 I’m currently learning Kotlin, Django, and more Python.
+- 🌝 I actually like PowerShell.
 - 💞️ I'd love to help you out on your open source projects!

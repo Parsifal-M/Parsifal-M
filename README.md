@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in DevOps, Automation, and general software engineering!
 - 🐍 I love Python, but I also like to play around with other OOP languages.
-- 🐧 I love Linux, I use Fedora on a daily basis, but also work with RHEL.
+- 🐧 I love Linux, I use Fedora on a daily basis.
 - 🌝 I actually like PowerShell.
 - 💞️ I'd love to help you out on your open source projects!
 - ☁️ Learning AWS, GCS, Azure!

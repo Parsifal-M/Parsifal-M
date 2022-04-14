@@ -7,7 +7,7 @@
 - 🐧 I love Linux, I use Fedora on a daily basis.
 - 🌝 I actually like PowerShell.
 - 💞️ I'd love to help you out on your open source projects!
-- ☁️ Learning AWS, GCS, Azure!
+- ☁️ Learning AWS, Azure!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parsifal-M&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 

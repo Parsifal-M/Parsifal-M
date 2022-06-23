@@ -1,5 +1,5 @@
 
-# Hello, there! I'm Peter. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there! I'm Peter. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 - 👀 I’m interested in DevOps, Automation, and general software engineering!
 - 🐍 I love Python, but I also like to play around with other OOP languages.

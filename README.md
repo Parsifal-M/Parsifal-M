@@ -1,13 +1,14 @@
 
 # Hello, there! I'm Peter.
 
-- 👀 I’m interested in DevOps, Automation, and general software engineering!
-- 🐍 I love Python, but I also like to play around with other OOP languages.
-- 🤩 Trying to use Go more! Go GOPHERS!
+- 👀 Software Engineering, DevOps, Platform Engineering... I love it all.
+- 🐍 Python and Golang are my go-to's but I also like a bit of Java on the side.
+- 🤩 Go more! Go GOPHERS!
 - 🐧 I love Linux, I use Fedora on a daily basis.
 - 🌝 I actually like PowerShell.
 - 💞️ I'd love to help you out on your open source projects!
-- ☁️ Learning AWS, Azure!
+- ☁️ Being cloud native.
+- :godmode: Kubernetes, CKA and soon CKAD Certified.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parsifal-M&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 

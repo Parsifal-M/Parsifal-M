@@ -9,6 +9,6 @@
 - ☁️ I can do some cloud stuff.
 - :godmode: Need more stickers for my laptop.
 
-## What I Like to Use
+## What I Like to Work With
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,py,wasm,rust,ts,)](https://skillicons.dev)

@@ -12,6 +12,3 @@
 ## What I Like to Use
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,py,wasm,rust,ts,)](https://skillicons.dev)
-
-## Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parsifal-M&show_icons=true&theme=dracula&hide_border=true&&count_private=true&include_all_commits=true" />

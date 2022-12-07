@@ -12,3 +12,5 @@
 ## What I Like to Work With
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,py,wasm,rust,ts,)](https://skillicons.dev)
+
+![OPA v0.47.0](https://openpolicyagent.org/badge/contributor)

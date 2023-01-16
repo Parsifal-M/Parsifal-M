@@ -2,9 +2,9 @@
 # Hello, there! I'm Peter.
 
 - 👀 Software Engineering, (Dev)Ops.
-- 🐍 I really enjoy Golang, Python and some Java, but also doing front-end stuff to be more "Full Stack".
-- 🤩 Want to use more Golang.
-- 🐧 I love Linux, I use Fedora as a daily driver.
+- 🐍 I really enjoy Go, I want to learn more Rust and become more familiar with some Front-end Stuff to be a bit more "Full Stack".
+- 🤩 Want to use more Go.
+- 🐧 I love Linux, I use Fedora.
 - 💞️ I'd love to help you out on your open source projects!
 - ☁️ I can do some cloud stuff.
 - :godmode: Need more stickers for my laptop.

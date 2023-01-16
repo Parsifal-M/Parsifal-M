@@ -2,7 +2,7 @@
 # Hello, there! I'm Peter.
 
 - 👀 Software Engineering, (Dev)Ops.
-- 🐍 I really enjoy Go, I want to learn more Rust and become more familiar with some Front-end Stuff to be a bit more "Full Stack".
+- 👨‍💻 I really enjoy Go, I want to learn more Rust and become more familiar with some Front-end Stuff to be a bit more "Full Stack".
 - 🤩 Want to use more Go.
 - 🐧 I love Linux, I use Fedora.
 - 💞️ I'd love to help you out on your open source projects!

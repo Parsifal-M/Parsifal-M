@@ -6,6 +6,11 @@
 - 🤩 Want to use more Go.
 - 💞️ I'd love to help you out on your open source projects!
 - :godmode: Need more stickers for my laptop.
+- 👋 My social [links](https://t.co/firVTqlJDl)!
+
+## My Blog!
+
+- [Codebrew](https://thecodebrew.quest/)
 
 ## What I Like to Work With
 

@@ -1,11 +1,10 @@
 
 # Hello, there! I'm Peter.
 
-- 👀 Software Engineering, (Dev)Ops.
-- 👨‍💻 I really enjoy Go, I want to learn more Rust and become more familiar with some Front-end Stuff to be a bit more "Full Stack".
-- 🤩 Want to use more Go.
+- 👀 Software Engineering is my passion, but I know the DevOps ways.
+- 👨‍💻 I like Go! But I'm currently a "Full Stack Dev" building developer portals and tooling with TypeScript and Node.js
 - 💞️ I'd love to help you out on your open source projects!
-- :godmode: Need more stickers for my laptop.
+- :godmode: Always looking for more stickers for my laptop.
 - 👋 My social [links](https://t.co/firVTqlJDl)!
 
 ## My Blog!

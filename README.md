@@ -14,7 +14,7 @@
 
 ## What I Like to Work With
 
-[![My Skills](https://skillicons.dev/icons?i=linux,go,rust,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,ts,)](https://skillicons.dev)
 
 ## Holopins!
 

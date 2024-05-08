@@ -2,14 +2,11 @@
 # Hello, there! I'm Peter.
 
 - 👀 Software Engineering is my passion, but I know the DevOps ways.
+- Doing a lot of Backstage and OPA stuff right now.
 - 👨‍💻 I like to use Go when I can! I'm currently a Full Stack Developer building developer portals and tooling with TypeScript, React and Node.js
 - 💞️ I'd love to help you out on your open source projects!
 - :godmode: Always looking for more stickers for my laptop.
 - 👋 My social [links](https://t.co/firVTqlJDl)!
-
-## My Blog!
-
-- [Codebrew](https://thecodebrew.quest/)
 
 ## What I Like to Work With
 

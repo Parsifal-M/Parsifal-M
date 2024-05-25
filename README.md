@@ -6,7 +6,6 @@
 - 👨‍💻 I like to use Go when I can! I'm currently a Full Stack Developer building developer portals and tooling with TypeScript, React and Node.js
 - 💞️ I'd love to help you out on your open source projects!
 - :godmode: Always looking for more stickers for my laptop.
-- 👋 My social [links](https://t.co/firVTqlJDl)!
 
 ## What I Like to Work With
 

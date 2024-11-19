@@ -1,3 +1,9 @@
+![CD59E005-DE7F-491F-A2DB-307DB76A8C0B_1_201_a](https://github.com/user-attachments/assets/d843562a-514c-46a6-894c-129d9d7ba12c)
+<p align='left'>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+</p>
 
 # Hello, there! I'm Peter.
 
@@ -11,21 +17,14 @@ I'm currently a developer building developer portals and tooling with TypeScript
 - :godmode: Always looking for more stickers for my laptop.
 
 ## Contact Me
+
 <p align='center'>
   <a target="_blank" href="https://www.linkedin.com/in/peter-j-macdonald/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://hachyderm.io/@parcifal"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
   <a target="_blank" href="https://gitlab.com/pmacdonald1"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
 
-## What I Like to Work With
-
-<p align='center'>
-  <a target="_blank" href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-</p>
-
 ## Blogs & Talks
 
-- [Going Backstage with OPA!](https://www.styra.com/blog/going-backstage-with-opa/)
-- [Can It Be Done? Building Fine-Grained Access Control for Backstage with OPA](https://www.youtube.com/watch?v=N0n_czYo_kE)
+- [Going Backstage with OPA!](https://www.styra.com/blog/going-backstage-with-opa/) - Blog
+- [Can It Be Done? Building Fine-Grained Access Control for Backstage with OPA](https://www.youtube.com/watch?v=N0n_czYo_kE) - BackstageCon (Paris 2024)

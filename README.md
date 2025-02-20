@@ -1,4 +1,5 @@
-![CD59E005-DE7F-491F-A2DB-307DB76A8C0B_1_201_a](https://github.com/user-attachments/assets/d843562a-514c-46a6-894c-129d9d7ba12c)
+![image](https://github.com/user-attachments/assets/9a04935f-4983-43e5-ac2e-32ea47fd711d)
+
 <p align='left'>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>

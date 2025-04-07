@@ -17,6 +17,10 @@ I'm currently a developer building developer portals and tooling with TypeScript
 - ⭐ [Open Policy Agent](https://www.openpolicyagent.org/community/) Champion!
 - :godmode: Always looking for more stickers for my laptop.
 
+## OPA Plugins Documentation Site
+
+- [OPA Plugins Docs](https://parsifal-m.github.io/backstage-opa-plugins/)
+
 ## Contact Me
 
 <p align='center'>

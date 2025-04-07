@@ -21,6 +21,11 @@ I'm currently a developer building developer portals and tooling with TypeScript
 
 - [OPA Plugins Docs](https://parsifal-m.github.io/backstage-opa-plugins/)
 
+## Blogs & Talks
+
+- [Going Backstage with OPA!](https://www.styra.com/blog/going-backstage-with-opa/) - Blog
+- [Can It Be Done? Building Fine-Grained Access Control for Backstage with OPA](https://www.youtube.com/watch?v=N0n_czYo_kE) - BackstageCon (Paris 2024)
+
 ## Contact Me
 
 <p align='center'>
@@ -28,8 +33,3 @@ I'm currently a developer building developer portals and tooling with TypeScript
   <a target="_blank" href="https://hachyderm.io/@parcifal"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" /></a>
   <a target="_blank" href="https://gitlab.com/pmacdonald1"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
-
-## Blogs & Talks
-
-- [Going Backstage with OPA!](https://www.styra.com/blog/going-backstage-with-opa/) - Blog
-- [Can It Be Done? Building Fine-Grained Access Control for Backstage with OPA](https://www.youtube.com/watch?v=N0n_czYo_kE) - BackstageCon (Paris 2024)

@@ -21,6 +21,10 @@ I'm currently a developer building developer portals and tooling with TypeScript
 
 - [OPA Plugins Docs](https://parsifal-m.github.io/backstage-opa-plugins/)
 
+## Need Bulk Dummy Entities For Your Backstage Application?
+
+- [Backstage Catalog Gen](https://parsifal-m.github.io/backstage-catalog-gen/)
+
 ## Blogs & Talks
 
 - [Going Backstage with OPA!](https://www.styra.com/blog/going-backstage-with-opa/) - Blog

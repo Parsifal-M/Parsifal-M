@@ -14,7 +14,7 @@ I'm currently a developer building developer portals and tooling with TypeScript
 - 🛠️ Doing a lot of [Backstage](https://backstage.io/) and [OPA](https://www.openpolicyagent.org/) stuff right now.
 - 👨‍💻 I am also a big fan of Golang.
 - 💞️ I'd love to help you out on your open source projects!
-- ⭐ [Open Policy Agent](https://www.openpolicyagent.org/community/) Champion!
+- ⭐ [Open Policy Agent]([https://www.openpolicyagent.org/community/](https://github.com/open-policy-agent/awesome-opa#community-stars)) Champion!
 - :godmode: Always looking for more stickers for my laptop.
 
 ## OPA Plugins Documentation Site

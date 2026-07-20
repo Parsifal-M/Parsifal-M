@@ -29,6 +29,7 @@ I'm currently a developer building developer portals and tooling with TypeScript
 
 - [Going Backstage with OPA!](https://www.styra.com/blog/going-backstage-with-opa/) - Blog
 - [Can It Be Done? Building Fine-Grained Access Control for Backstage with OPA](https://www.youtube.com/watch?v=N0n_czYo_kE) - BackstageCon (Paris 2024)
+- [Panel: Building a Healthy Backstage Plugins Ecosystem](https://www.youtube.com/watch?v=67fFjQMRKyM&list=PLj6h78yzYM2Py6kX3NDSsM53wAzF2JkV7&index=9) - BackstageCon (Amsterdam 2026)
 
 ## Contact Me
 
